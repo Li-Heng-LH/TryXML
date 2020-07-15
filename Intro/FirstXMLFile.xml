@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="FirstXMLFile.css" ?>  <!-- associate css with this xml file, giving this xml appearance -->
+
+<FirstTag>
+    <!-- This is a comment -->
+    This is the first XML file.
+</FirstTag>
