@@ -21,6 +21,17 @@ So need to put name of attribute equals to name of attribute as the value.
 
 &nbsp;
 
+##### Element node VS Text Node ##### 
+* All the XML elements present in a XML is an element node. The text present in the XML elements are text nodes.
+* According to the XML DOM, everything in an XML document is a node:  
+  * The entire document is a document node
+  * Every XML element is an element node
+  * The text in the XML elements are text nodes
+  * Every attribute is an attribute node
+  * Comments are comment nodes
+
+&nbsp;
+
 &nbsp;
 ----
 ### Useful links ###
